@@ -1,4 +1,4 @@
-FROM debian:buster-20230502
+FROM debian:12
 
 LABEL maintainer "opsxcq@strm.sh"
 
